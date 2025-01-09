@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [My TikTok video analysis project](https://github.com/CampaignLab/reform-tiktok-analysis)
 
-- 👨‍💻 All of my projects are available at [http://www.maximedowne.com/](http://www.maximedowne.com/)
+- 👨‍💻 All of my projects are available at [https://www.maximedowne.com/](https://www.maximedowne.com/)
 
 - 💬 Ask me about **Typescript, React, Vite, SQL, Databases, Data Analytics, Computational Design, 3D Modelling, Algorithms, OOP, Accessibility**
 
