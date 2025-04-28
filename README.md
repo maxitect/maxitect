@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Colarity](https://github.com/viatora/colarity-fe)
 
-- 🌱 I’m currently learning **.NET, C#, ASP.NET, Blazor, React Native, php**
+- 🌱 I’m currently learning **PyTorch & Machine Learning**
 
 - 👯 I’m looking to collaborate on **cool projects!**
 
