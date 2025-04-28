@@ -13,13 +13,15 @@
 
 - 🤝 I’m looking for help with [My TikTok video analysis project](https://github.com/CampaignLab/reform-tiktok-analysis)
 
-- 👨‍💻 All of my projects are available at [https://www.maximedowne.com/](https://www.maximedowne.com/)
+- 📚 Read my blog at [**maxitect.blog**]([https://www.maximedowne.com/](https://maxitect.blog/))
 
-- 💬 Ask me about **Typescript, React, Vite, SQL, Databases, Data Analytics, Computational Design, 3D Modelling, Algorithms, OOP, Accessibility**
+- 👨‍💻 All of my projects are available at [**maximedowne.com**](https://www.maximedowne.com/)
 
-- 📫 How to reach me **maxime.downe@gmail.com**
+- 💬 Ask me about **Typescript, Next, React, SQL, Databases, Data Science, Machine Learning, Computational Design, Algorithms, OOP, Accessibility, AI-Assisted Development**
 
-- ⚡ Fun fact **I read a lot of comics**
+- 📫 How to reach me [**maxime.downe@gmail.com**](mailto:maxime.downe@gmail.com)
+
+- ⚡ Fun fact I ** read a lot of comics** and **drink a lot of tea**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
