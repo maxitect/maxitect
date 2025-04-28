@@ -21,7 +21,7 @@
 
 - 📫 How to reach me [**maxime.downe@gmail.com**](mailto:maxime.downe@gmail.com)
 
-- ⚡ Fun fact I ** read a lot of comics** and **drink a lot of tea**
+- ⚡ Fun fact I **read a lot of comics** and **drink a lot of tea**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
