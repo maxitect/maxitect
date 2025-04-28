@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [My TikTok video analysis project](https://github.com/CampaignLab/reform-tiktok-analysis)
 
-- 📚 Read my blog at [**maxitect.blog**]([https://www.maximedowne.com/](https://maxitect.blog/))
+- 📚 Read my blog at [**maxitect.blog**](https://maxitect.blog/)
 
 - 👨‍💻 All of my projects are available at [**maximedowne.com**](https://www.maximedowne.com/)
 
