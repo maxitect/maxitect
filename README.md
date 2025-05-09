@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxitect" alt="maxitect" /></a> </p>
 
-- 💼 I co-founded a dev agency: [Tandem Creative Dev](runintandem.com)
+- 💼 I co-founded a dev agency: [Tandem Creative Dev](https://runintandem.com/)
 
 - 🌱 I’m currently learning **PyTorch & Machine Learning**
 
