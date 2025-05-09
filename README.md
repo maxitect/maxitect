@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxitect" alt="maxitect" /></a> </p>
 
-- 🔭 I’m currently working on [Colarity](https://github.com/viatora/colarity-fe)
+- 💼 I co-founded a dev agency: [Tandem Creative Dev](runintandem.com)
 
 - 🌱 I’m currently learning **PyTorch & Machine Learning**
 
 - 👯 I’m looking to collaborate on **cool projects!**
-
-- 🤝 I’m looking for help with [My TikTok video analysis project](https://github.com/CampaignLab/reform-tiktok-analysis)
 
 - 📚 Read my blog at [**maxitect.blog**](https://maxitect.blog/)
 
